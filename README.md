@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Passionately studying to become a skilled full-stack developer, committed to mastering the craft.<br>🌱 Currently focused on JavaScript and Node.js, continuously expanding my knowledge in these technologies.<br>💬 Excited to collaborate on building a movie app that merges my expertise in coding with my love for films.<br>👨‍💻 Dedicated to assisting fellow developers, providing support whenever challenges arise in your coding journey.
+📚 Passionately studying to become a skilled full-stack developer, committed to mastering the craft.<br>🌱 Currently focused on JavaScript and Node.js, continuously expanding my knowledge in these technologies.<br>💬 Excited to collaborate on building a movie app that merges my expertise in coding with my love for films.<br>👨‍💻 Always ready to assist! If you ever find yourself stuck in your code, don't hesitate to reach out. I'll be glad to help you on your coding journey.
 
 
 ## 🌐 Socials:
